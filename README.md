@@ -1,1 +1,2 @@
-# K-Nearest-Neighbor-KNN-model-in-pure-numpy
+# K Nearest Neighbor KNN-model 
+in-pure-numpy , 
